@@ -1,7 +1,25 @@
 # MyApp
 https://github.com/topi0247/MyApp
 
-# Status
+# Stats
+<p align="left">
+  <a href="https://github.com/topi0247">
+    <img height="20" src="https://komarev.com/ghpvc/?username=topi0247" />
+  </a>
+  <a href="https://github.com/topi0247">
+    <img height="20" src="https://img.shields.io/github/followers/topi0247?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/topi_log">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/topi_log/posts.svg" />
+  </a>
+  <a href="http://qiita.com/topi_log">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/topi_log/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/topi_log">
+    <img height="20" src="https://badgen.org/img/zenn/topi_log/articles?style=plastic" />
+  </a>
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=topi0247&count_private=true&rank=-?)](https://github.com/topi0247/github-profile-trophy)
 
 [![topi0247's GitHub stats](https://github-readme-stats.vercel.app/api?username=topi0247&include_all_commits&count_private=true)](https://github.com/topi0247/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topi0247&layout=compact&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
