@@ -9,12 +9,6 @@ https://github.com/topi0247/MyApp
   <a href="https://github.com/topi0247">
     <img height="20" src="https://img.shields.io/github/followers/topi0247?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/topi_log">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/topi_log/posts.svg" />
-  </a>
-  <a href="http://qiita.com/topi_log">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/topi_log/contributions.svg" />
-  </a>
   <a href="https://zenn.dev/topi_log">
     <img height="20" src="https://badgen.org/img/zenn/topi_log/articles?style=plastic" />
   </a>
